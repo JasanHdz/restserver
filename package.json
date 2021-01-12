@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "app.js",
   "author": "Jasan Hernández <jasan814@gmail.com>",
+  "scripts": {
+    "start": "node server/index.js"
+  },
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
